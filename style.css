@@ -1,15 +1,14 @@
 body{
   background-color:lightblue ;
-  background-image:url();
   font-family: garamond, georgia, sarif;
   margin:10% 20%;
   
 }
-h1{
+h1{ text-align:center;
   font-size:48px;
   color:blue;
   font-family:monaco, cursive, garamond;
-  text-align: center;
+ 
  
 border-top: 1px solid black;
 border-bottom:1px solid black;
@@ -21,6 +20,13 @@ h3{
   text-align:center;
   border:double;
   text-transform: uppercase;
-  
-  
+ 
 }
+
+h4{font-size:24px;
+}
+
+h5{font-size:18px;
+}
+
+h6{font-size:12px;}
