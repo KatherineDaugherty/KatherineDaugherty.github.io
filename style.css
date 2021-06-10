@@ -1,1 +1,22 @@
 
+body{
+  background-color:lightblue ;
+  background-image:url();
+  font-family: garamond, georgia, sarif;
+  margin:10% 20%;
+  
+}
+h1{
+  font-size:64px;
+  color:blue;
+  font-family:monaco, cursive, garamond;}
+
+.header{border-style:solid; 
+padding-left:30px;
+padding-bottom:30px;}
+
+h3{
+  text-align:center;
+  border:double;
+  
+}
