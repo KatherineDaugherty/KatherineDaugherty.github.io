@@ -32,5 +32,8 @@ h5{font-size:18px;
 
 h6{font-size:12px;}
 
-img{width:50%;
-height:auto;}
+
+.center{display:block;
+margin-left:auto;
+margin-right:auto;
+width:50%;}
